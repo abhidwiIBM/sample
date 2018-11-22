@@ -1,2 +1,2 @@
 # sample
-This repo is for practising.
+This repo is for learning Jenkins.
